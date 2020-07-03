@@ -2,8 +2,10 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Htun Aung Kyaw",
   "description": "A project that does something awesome",
+  "license": "MIT",
+  "version": "1.2.0",
   "keywords": [
-    "FREECODECAMP",
+    "freecodecamp",
     "APIS-AND-MICROSERVICES"
   ],
   "dependencies": {
