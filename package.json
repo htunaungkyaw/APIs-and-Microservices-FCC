@@ -2,6 +2,10 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Htun Aung Kyaw",
   "description": "A project that does something awesome",
+  "keywords": [
+    "FREECODECAMP",
+    "APIS-AND-MICROSERVICES"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
